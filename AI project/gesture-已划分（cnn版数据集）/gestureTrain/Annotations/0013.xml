@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0013.jpg</filename>
+    <path>gesture-PascalVOC-export/Annotations/0013.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>枪</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>206.78952473326865</xmin>
+        <ymin>105.41720569210867</ymin>
+        <xmax>292.9194956353055</xmax>
+        <ymax>191.18693402328591</ymax>
+    </bndbox>
+</object>
+</annotation>

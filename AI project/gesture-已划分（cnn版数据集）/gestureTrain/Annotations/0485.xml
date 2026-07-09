@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0485.jpg</filename>
+    <path>gesture-PascalVOC-export/Annotations/0485.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>我爱你</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>166.66666666666666</xmin>
+        <ymin>133.33333333333334</ymin>
+        <xmax>231.2121212121212</xmax>
+        <ymax>208.7878787878788</ymax>
+    </bndbox>
+</object>
+</annotation>

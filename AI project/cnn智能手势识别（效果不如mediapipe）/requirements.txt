@@ -1,0 +1,18 @@
+# 核心依赖
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# PyTorch（用于CNN模型，如果使用关键点识别可不需要）
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 图像处理
+Pillow>=9.0.0
+
+# 可选（用于PPT控制等交互应用）
+pyautogui>=0.9.54
+
+# 工具库
+matplotlib>=3.5.0
+tqdm>=4.65.0
