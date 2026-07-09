@@ -1,7 +1,0 @@
-numpy==1.23.5
-opencv-python==4.8.1.78
-mediapipe==0.10.9
-Pillow==10.2.0
-PyAutoGUI==0.9.54
-torch
-torchvision
